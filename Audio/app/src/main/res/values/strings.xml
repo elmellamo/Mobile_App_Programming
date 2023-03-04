@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">노래 재생</string>
+
+    <string name="title">Manifest It</string>
+    <string name="lyrics">
+        아티스트는 NEFFEX입니다.\n
+        트랙 : Instrumental
+    </string>
+</resources>
