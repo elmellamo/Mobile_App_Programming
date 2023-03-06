@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">인물 등록</string>
+    <string name="app_name1">인물 목록</string>
+    <string name="app_name2">인물 등록 폼</string>
+    <string name="app_name3">인물 정보</string>
+
+    <string name="action_settings">홈</string>
+    <string name="action_settings1">인물 목록</string>
+    <string name="action_settings2">인물 등록</string>
+    <string name="action_settings3">인물 정보</string>
+    <string name="action_settings4">삭제</string>
+</resources>
