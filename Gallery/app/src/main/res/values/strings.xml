@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">갤러리</string>
+    <string name="app_name2">귀여운 동물들</string>
+
+    <string name="title1">한국 이름은 정복순</string>
+    <string name="info1">태어난 지 50일!</string>
+    <string name="picture1">img</string>
+
+    <string name="title2">영어 이름은 소미</string>
+    <string name="info2">집 온 지 첫 날 목욕하고 잠든 소미</string>
+    <string name="picture2">img_1</string>
+</resources>
